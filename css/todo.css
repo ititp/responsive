@@ -1,0 +1,28 @@
+@media screen and (max-width: 600px) {
+    header > .actions{
+    }
+    /* reduire la taille */
+    .card {
+    }
+
+    /*largeur fixe, cacher avec une translation */
+    .games {
+    }
+
+    /* afficher avec une translation*/
+    .games.show {
+
+    }
+
+    /* hauteur fixe, cacher avec un tranlation */
+    .messages {
+    }
+
+    /* afficher avec une translation*/
+    .messages.show {
+    }
+    
+    /* réduire la police */
+    .card > .front {
+    }
+}
